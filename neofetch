@@ -562,7 +562,6 @@ image_backend="w3m"
 #       wallpaper will be used.
 image_source="wallpaper"
 
-
 # Ascii Options
 
 
@@ -636,7 +635,7 @@ crop_offset="center"
 # Values:  'auto', '00px', '00%', 'none'
 # Flags:   --image_size
 #          --size
-image_size="34%"
+image_size="17%"
 
 # Ggap between image and text
 #
@@ -652,7 +651,7 @@ gap=3
 # Values:  'px'
 # Flags:   --xoffset
 #          --yoffset
-yoffset=10
+yoffset=14
 xoffset=10
 
 # Image background color
